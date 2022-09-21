@@ -4,5 +4,6 @@ public class HelloWorld {
         String chicken = "chicken";
         System.out.println(chicken);
         String message = "is yummy";
+        System.out.println(message);
     }
 }
